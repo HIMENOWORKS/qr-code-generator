@@ -1,5 +1,6 @@
 {
    "name": "qr-code-generator",
+   "homepage": "https://www.himenoworks.dev/qr-generator",
    "version": "0.1.0",
    "private": true,
    "scripts": {
